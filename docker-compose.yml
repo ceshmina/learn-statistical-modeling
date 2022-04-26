@@ -1,0 +1,11 @@
+version: "3.8"
+services:
+  jupyter:
+    build:
+      context: .
+    volumes:
+      - ./work:/home/work
+    ports:
+      - 8888:8888
+    working_dir: /home/work
+    command: jupyter lab --allow-root --ip=0.0.0.0 --no-browser
