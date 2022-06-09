@@ -12,3 +12,6 @@ RUN apt update -qq \
 
 # Rのパッケージのビルドに必要
 RUN apt install -y gfortran r-base-dev
+
+# Pythonでgraphvizを使うのに必要
+RUN apt install -y graphviz graphviz-dev
