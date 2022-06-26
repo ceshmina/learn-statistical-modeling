@@ -231,6 +231,8 @@ readline=8.1.2=h7f8727e_1
 requests=2.27.1=pyhd3eb1b0_0
 ruamel_yaml=0.15.100=py39h27cfd23_0
 scipy=1.5.3=py39hee8e79c_0
+seaborn=0.11.2=hd8ed1ab_0
+seaborn-base=0.11.2=pyhd8ed1ab_0
 send2trash=1.8.0=pyhd8ed1ab_0
 setuptools=61.2.0=py39h06a4308_0
 sip=6.5.1=py39he80948d_2
