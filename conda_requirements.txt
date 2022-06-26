@@ -89,6 +89,7 @@ ipython_genutils=0.2.0=py_1
 jack=1.9.18=h8c3723f_1002
 jedi=0.18.1=py39hf3d152e_1
 jinja2=3.1.2=pyhd8ed1ab_1
+joblib=1.1.0=pyhd8ed1ab_0
 jpeg=9e=h166bdaf_1
 json5=0.9.5=pyh9f0ad1d_0
 jsonschema=4.6.0=pyhd8ed1ab_0
@@ -230,6 +231,7 @@ qt-main=5.15.4=ha5833f6_2
 readline=8.1.2=h7f8727e_1
 requests=2.27.1=pyhd3eb1b0_0
 ruamel_yaml=0.15.100=py39h27cfd23_0
+scikit-learn=1.1.1=py39h4037b75_0
 scipy=1.5.3=py39hee8e79c_0
 seaborn=0.11.2=hd8ed1ab_0
 seaborn-base=0.11.2=pyhd8ed1ab_0
@@ -246,6 +248,7 @@ sysroot_linux-64=2.12=he073ed8_15
 tbb=2021.5.0=h924138e_1
 tenacity=8.0.1=pyhd8ed1ab_0
 terminado=0.15.0=py39hf3d152e_0
+threadpoolctl=3.1.0=pyh8a188c0_0
 tinycss2=1.1.1=pyhd8ed1ab_0
 tk=8.6.12=h27826a3_0
 toml=0.10.2=pyhd8ed1ab_0
